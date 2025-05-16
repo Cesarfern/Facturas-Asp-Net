@@ -1,0 +1,39 @@
+﻿@page
+@model InvoiceApp.Pages.Invoices.IndexModel
+@{
+}
+
+<h2 class="text-center mb-3">Facturas</h2>
+<a class="btn btn-primary" asp-page="/Invoices/Create">Nueva Factura</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Numero</th>
+            <th>Estatus</th>
+            <th>Cliente</th>
+            <th>Precio Total</th>
+            <th>Fecha Emisión</th>
+            <th>Fecha Vencimiento</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        @foreach(var invoice in Model.invoiceList){
+            <tr>
+                <td>@invoice.Id</td>
+                <td>@invoice.Number</td>
+                <td>@invoice.Status</td>
+                <td>@invoice.ClientName</td>
+                <td>@(invoice.Quantity * invoice.UnitPrice)$</td>
+                <td>@invoice.IssueDate</td>
+                <td>@invoice.DueDate</td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-page="/Invoices/Edit" asp-route-id="@invoice.Id">Editar</a>
+                    <a class="btn btn-danger btn-sm" asp-page="/Invoices/Delete" asp-route-id="@invoice.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
