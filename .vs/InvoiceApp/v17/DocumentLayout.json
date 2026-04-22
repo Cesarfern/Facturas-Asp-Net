@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\pages\\invoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\pages\\invoices\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\pages\\invoices\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,32 +23,12 @@
       "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\pages\\invoices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\pages\\invoices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\pages\\invoices\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\pages\\invoices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7738B90D-B457-48DA-A338-F37438DD314E}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\admin\\documents\\.net\\invoiceapp\\invoiceapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -78,47 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Delete.cshtml",
-              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Delete.cshtml",
-              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T06:50:11.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Index.cshtml",
-              "RelativeToolTip": "InvoiceApp\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T01:29:24.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Error.cshtml",
-              "RelativeToolTip": "InvoiceApp\\Pages\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T05:56:28.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Privacy.cshtml",
@@ -126,11 +66,12 @@
               "RelativeToolTip": "InvoiceApp\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T05:56:29.475Z"
+              "WhenOpened": "2025-05-15T05:56:29.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Edit.cshtml.cs",
@@ -138,7 +79,8 @@
               "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T20:01:45.784Z"
+              "WhenOpened": "2025-01-14T20:01:45.784Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -150,23 +92,12 @@
               "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T05:08:18.457Z"
+              "WhenOpened": "2025-01-06T05:08:18.457Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Create.cshtml",
-              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Create.cshtml",
-              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T19:10:40.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Shared\\_Layout.cshtml",
@@ -179,43 +110,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Edit.cshtml",
-              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Edit.cshtml",
-              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Edit.cshtml",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAI8AAAAyAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Delete.cshtml",
+              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Delete.cshtml",
+              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T20:00:57.452Z"
+              "WhenOpened": "2025-01-15T06:50:11.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Index.cshtml.cs",
-              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Program.cs",
+              "RelativeDocumentMoniker": "InvoiceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Program.cs",
+              "RelativeToolTip": "InvoiceApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T06:14:09.2Z"
+              "WhenOpened": "2025-01-04T07:24:02.158Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Create.cshtml.cs",
-              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:31:46.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -223,23 +144,12 @@
               "RelativeToolTip": "InvoiceApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T06:02:32.047Z"
+              "WhenOpened": "2025-05-15T06:02:32.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Program.cs",
-              "RelativeDocumentMoniker": "InvoiceApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Program.cs",
-              "RelativeToolTip": "InvoiceApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T07:24:02.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "InvoiceDto.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Models\\InvoiceDto.cs",
               "RelativeDocumentMoniker": "InvoiceApp\\Models\\InvoiceDto.cs",
@@ -247,11 +157,12 @@
               "RelativeToolTip": "InvoiceApp\\Models\\InvoiceDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T07:17:23.745Z"
+              "WhenOpened": "2025-01-07T07:17:23.745Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "Invoice.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Models\\Invoice.cs",
               "RelativeDocumentMoniker": "InvoiceApp\\Models\\Invoice.cs",
@@ -259,11 +170,12 @@
               "RelativeToolTip": "InvoiceApp\\Models\\Invoice.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAuwBcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T07:37:53.385Z"
+              "WhenOpened": "2025-01-05T07:37:53.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\appsettings.json",
               "RelativeDocumentMoniker": "InvoiceApp\\appsettings.json",
@@ -271,11 +183,12 @@
               "RelativeToolTip": "InvoiceApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-04T07:25:04.547Z"
+              "WhenOpened": "2025-01-04T07:25:04.547Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.net\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Delete.cshtml.cs",
@@ -283,7 +196,8 @@
               "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T06:52:42.296Z"
+              "WhenOpened": "2025-01-15T06:52:42.296Z",
+              "EditorCaption": ""
             }
           ]
         }
